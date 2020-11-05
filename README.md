@@ -3,9 +3,7 @@
 
 
 - 🌱 I’m currently learning **NestJS, React Native**
-
-- 💬 I'm quite good at **NodeJS, TypeScript, React, Vue,...**
-
+- 💬 I don't know **NodeJS, TypeScript, React, Vue,...** : >
 - 📫 How to reach me **ngankhanh98@gmail.com**
 
 
